@@ -4,4 +4,4 @@ Using Codesys(LD-STF-SFC) to program a packaging machine that collect 3 items of
 
 (to full description please read the program document) 
 
-also with the implementation there is HMI descriping the whole process 
+also with the implementation ,there is HMI descriping the whole process 
